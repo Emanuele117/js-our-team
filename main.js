@@ -9,19 +9,19 @@ const teamLakers = [
 
     {
         name: 'LeBron James',
-        role: 'Cestista',
+        role: 'Guardia tiratrice',
         immagine: 'https://picsum.photos/id/1/200/300'
     },
 
     {
-        name: 'black',
-        role: 'fiat',
-        immagine: 'ibrida'
+        name: 'Russell Westbrook',
+        role: 'Playmaker',
+        immagine: 'https://picsum.photos/id/0/200/300'
     },
 
     {
-        nome: 'yellow',
-        role: 'fiat',
-        immagine: 'diesel'
+        nome: 'Anthony Davis',
+        role: 'Ala grande',
+        immagine: 'https://picsum.photos/id/2/200/300'
     }
 ]
