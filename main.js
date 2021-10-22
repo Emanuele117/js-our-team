@@ -25,3 +25,15 @@ const teamLakers = [
         immagine: 'https://picsum.photos/id/2/200/300'
     }
 ]
+
+for (let key in teamLakers) {
+    console.log(key, teamLakers[key]);
+}
+
+
+
+
+
+
+
+
